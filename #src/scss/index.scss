@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+
+h1 {
+    font-size: 16px;
+    @media (min-width: 640px) {
+        color: blue;
+    }
+}
+
+div {
+    font-size: 16px;
+    @media (min-width: 640px) {
+        color: blue;
+    }
+}
